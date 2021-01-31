@@ -372,6 +372,11 @@ p {
 	font-weight: 500;
 	margin-top: 10px;
 }
+#projects .project-info h2 a {
+	font-size: 2.0rem;
+	font-weight: 150;
+	color: aliceblue;
+}
 #projects .project-info p {
 	color: white;
 }
